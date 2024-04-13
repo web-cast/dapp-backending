@@ -1,0 +1,17 @@
+# 忽略 node_modules 目录
+node_modules/
+
+# 忽略本地配置文件，通常包含敏感信息
+.env
+
+# 忽略临时文件
+*.log
+npm-debug.log*
+
+# 忽略测试报告
+coverage/
+
+# 忽略编辑器临时文件
+.vscode/
+.idea/
+*.iml
